@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaveThornton
 - 👀 I’m interested in Godot and arcade games
 - 🌱 I’m currently learning GD Script
-- 💞️ I’m looking to collaborate on my open source arcade game Robits
+- 💞️ I’m working on my open source arcade game Robits
 - 📫 How to reach me Dave@RevThornton.com
 
 <!---
